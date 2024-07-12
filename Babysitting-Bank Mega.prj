@@ -4,8 +4,12 @@
    <name>Babysitting-Bank Mega</name>
    <tag></tag>
    <UUID>4b032a66-8a17-4267-9906-7a7e0a36e46a</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\22122295\git\BabysittingKatalonBankMega\Babysitting-Bank Mega.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
